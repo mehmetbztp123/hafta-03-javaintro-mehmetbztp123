@@ -1,0 +1,3 @@
+Bonus görevleri, temel Java aritmetiğini ve kontrol yapılarını kullanarak pratik problemlerin çözümünü gösterir: Saat Dönüştürme kodu, saniyeyi (/ ve % operatörlerini kullanarak) saat:dakika:saniye formatına çevirir; BMI Hesaplama kod
+u, verilen kilo ve boy ile Vücut Kitle İndeksini hesaplar ve sonucu if/else yapısıyla bir sağlık kategorisine atar; Para Bozma kodu, döngü (for) ve modüler aritmetik (%) kullanarak büyük bir miktarı e
+n az sayıda banknot ve madeni paraya ayırır; son olarak, ASCII Sanat kodu ise sadece System.out.println() satırlarını kullanarak istenen ismi (MEHMET) ekrana görsel olarak çizer.
